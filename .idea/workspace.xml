@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d72ecafd-6931-445e-8c6f-ddc61e603b0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZceWrdvynkbewpJntH2HRXrbYS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala/Scaner/Scan.scala" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Translator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScalaJdbcConnectSelect" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ConnectDB.ScalaJdbcConnectSelect" />
+      <module name="Translator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConnectDB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ScalaJdbcConnectSelect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Translator" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="translator [file:/home/marat/IdeaProjects/Translator/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Translator-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="2637105473" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d72ecafd-6931-445e-8c6f-ddc61e603b0c" name="Default Changelist" comment="" />
+      <created>1585142843164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585142843164</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="220" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585517009071">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="533" y="220" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.27.1600.873@0.27.1600.873" timestamp="1585517009071" />
+    <state x="583" y="220" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585618630553">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="583" y="220" width="424" height="484" key="FileChooserDialogImpl/0.27.1600.873@0.27.1600.873" timestamp="1585618630553" />
+    <state width="777" height="219" key="GridCell.Tab.0.bottom" timestamp="1585618876023">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="777" height="219" key="GridCell.Tab.0.bottom/0.27.1600.873@0.27.1600.873" timestamp="1585618876023" />
+    <state width="777" height="219" key="GridCell.Tab.0.center" timestamp="1585618876020">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="777" height="219" key="GridCell.Tab.0.center/0.27.1600.873@0.27.1600.873" timestamp="1585618876020" />
+    <state width="777" height="219" key="GridCell.Tab.0.left" timestamp="1585618876019">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="777" height="219" key="GridCell.Tab.0.left/0.27.1600.873@0.27.1600.873" timestamp="1585618876019" />
+    <state width="777" height="219" key="GridCell.Tab.0.right" timestamp="1585618876021">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="777" height="219" key="GridCell.Tab.0.right/0.27.1600.873@0.27.1600.873" timestamp="1585618876021" />
+    <state x="289" y="97" key="SettingsEditor" timestamp="1585618872298">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="289" y="97" key="SettingsEditor/0.27.1600.873@0.27.1600.873" timestamp="1585618872298" />
+    <state x="464" y="208" key="run.anything.popup" timestamp="1585601917091">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="464" y="208" key="run.anything.popup/0.27.1600.873@0.27.1600.873" timestamp="1585601917091" />
+    <state x="463" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1585519370316">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="463" y="212" width="672" height="678" key="search.everywhere.popup/0.27.1600.873@0.27.1600.873" timestamp="1585519370316" />
+  </component>
+</project>
