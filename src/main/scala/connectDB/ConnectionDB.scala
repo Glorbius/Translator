@@ -2,7 +2,7 @@ package ConnectDB
 
 import java.sql.DriverManager
 
-case class ConnectionDB() {
+class ConnectionDB() {
 
 
   def setWords(rus: String, eng: String) = {

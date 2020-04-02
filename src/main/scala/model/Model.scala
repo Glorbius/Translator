@@ -3,7 +3,7 @@ package Model
 import ConnectDB.ConnectionDB
 
 case class Model() {
-  val con = ConnectionDB()
+  val con = new ConnectionDB()
 
   def addWords(rus:String,eng:String)= {
 

@@ -1,6 +1,6 @@
 package Menu
 
-case class Text() {
+class Text() {
 
   def welcome(): Unit = {
     println("--------------------------------------------------------")

@@ -2,7 +2,7 @@ package Scaner
 
 import scala.io.StdIn
 
-case class Scan() {
+class Scan() {
 
 
   def getRussianWords(): String = {
