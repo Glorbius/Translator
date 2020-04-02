@@ -1,17 +1,13 @@
-import Menu.Text
-import Model.Model
-import Scaner.Scan
-
+import menu.Text
+import scaner.Scan
 import scala.io.StdIn
 
 object Main {
 
   def main(args: Array[String]): Unit = {
 
-    val scan = Scan()
-    val text = Text()
-    val translate = Model()
-    //val connection = ConnectionDB() old
+    val scan = new Scan()
+    val text = new Text()
 
 
     var choice: Int = 0
@@ -21,13 +17,14 @@ object Main {
       text.menu()
       choice = StdIn.readInt()
       if (choice == 1) {
-        translate.addWords(scan.getRussianWords(), scan.getEnglishWord())
-        //connection.setWords(scan.getRussianWords(),scan.getEnglishWord()) old
+        val model = Model(scan.getRussianWords(), scan.getEnglishWord())
+        model.addWords()
       }
 
       if (choice == 2) {
-        translate.getWords()
-        //connection.getWords() old
+        val model = Model(null, null)
+        model.getAll()
+
       }
     }
   }

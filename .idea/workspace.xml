@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d72ecafd-6931-445e-8c6f-ddc61e603b0c" name="Default Changelist" comment="" />
+    <list default="true" id="d72ecafd-6931-445e-8c6f-ddc61e603b0c" name="Default Changelist" comment="Change Model">
+      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ConnectDB/ConnectionDB.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/connectDB/ConnectionDB.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Main.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Menu/Text.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/menu/Text.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Model/Model.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/model/Model.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Scaner/Scan.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scaner/Scan.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/ConnectDB/ConnectionDB$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/ConnectDB/ConnectionDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Main$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/Main$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Menu/Text$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Menu/Text.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Model/Model$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Model/Model.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Scaner/Scan$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Scaner/Scan.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +40,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -33,8 +54,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala/Scaner/Scan.scala" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/model" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -49,7 +82,7 @@
       <module name="Translator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ConnectDB.*" />
+          <option name="PATTERN" value="connectDB.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,10 +124,14 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="3170761243346" />
         <entry key="$PROJECT_DIR$/build.sbt" value="2637105473" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
       </map>
     </option>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="ignorePerformance" value="true" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -110,30 +147,54 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="395" y="124" width="800" height="677" key="#Notifications" timestamp="1585831159171">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="395" y="124" width="800" height="677" key="#Notifications/0.27.1600.873@0.27.1600.873" timestamp="1585831159171" />
+    <state x="395" y="124" width="800" height="677" key="#Project_Structure" timestamp="1585829757487">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="395" y="124" width="800" height="677" key="#Project_Structure/0.27.1600.873@0.27.1600.873" timestamp="1585829757487" />
     <state x="533" y="220" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585517009071">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
     <state x="533" y="220" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.27.1600.873@0.27.1600.873" timestamp="1585517009071" />
+    <state x="483" y="190" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585819951349">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="483" y="190" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1600.873@0.27.1600.873" timestamp="1585819951349" />
+    <state x="553" y="323" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585829761565">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="553" y="323" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1600.873@0.27.1600.873" timestamp="1585829761565" />
+    <state x="406" y="41" width="777" height="843" key="CommitChangelistDialog2" timestamp="1585831232844">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="406" y="41" width="777" height="843" key="CommitChangelistDialog2/0.27.1600.873@0.27.1600.873" timestamp="1585831232844" />
     <state x="583" y="220" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585618630553">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
     <state x="583" y="220" width="424" height="484" key="FileChooserDialogImpl/0.27.1600.873@0.27.1600.873" timestamp="1585618630553" />
-    <state width="777" height="219" key="GridCell.Tab.0.bottom" timestamp="1585618876023">
+    <state width="1554" height="219" key="GridCell.Tab.0.bottom" timestamp="1585842236784">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
-    <state width="777" height="219" key="GridCell.Tab.0.bottom/0.27.1600.873@0.27.1600.873" timestamp="1585618876023" />
-    <state width="777" height="219" key="GridCell.Tab.0.center" timestamp="1585618876020">
+    <state width="1554" height="219" key="GridCell.Tab.0.bottom/0.27.1600.873@0.27.1600.873" timestamp="1585842236784" />
+    <state width="1554" height="219" key="GridCell.Tab.0.center" timestamp="1585842236784">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
-    <state width="777" height="219" key="GridCell.Tab.0.center/0.27.1600.873@0.27.1600.873" timestamp="1585618876020" />
-    <state width="777" height="219" key="GridCell.Tab.0.left" timestamp="1585618876019">
+    <state width="1554" height="219" key="GridCell.Tab.0.center/0.27.1600.873@0.27.1600.873" timestamp="1585842236784" />
+    <state width="1554" height="219" key="GridCell.Tab.0.left" timestamp="1585842236783">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
-    <state width="777" height="219" key="GridCell.Tab.0.left/0.27.1600.873@0.27.1600.873" timestamp="1585618876019" />
-    <state width="777" height="219" key="GridCell.Tab.0.right" timestamp="1585618876021">
+    <state width="1554" height="219" key="GridCell.Tab.0.left/0.27.1600.873@0.27.1600.873" timestamp="1585842236783" />
+    <state width="1554" height="219" key="GridCell.Tab.0.right" timestamp="1585842236784">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
-    <state width="777" height="219" key="GridCell.Tab.0.right/0.27.1600.873@0.27.1600.873" timestamp="1585618876021" />
+    <state width="1554" height="219" key="GridCell.Tab.0.right/0.27.1600.873@0.27.1600.873" timestamp="1585842236784" />
+    <state x="588" y="155" width="413" height="614" key="RollbackChangesDialog" timestamp="1585842181151">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="588" y="155" width="413" height="614" key="RollbackChangesDialog/0.27.1600.873@0.27.1600.873" timestamp="1585842181151" />
     <state x="289" y="97" key="SettingsEditor" timestamp="1585618872298">
       <screen x="0" y="27" width="1600" height="873" />
     </state>

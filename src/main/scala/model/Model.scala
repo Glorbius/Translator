@@ -1,20 +1,15 @@
-package Model
+import connectDB.ConnectionDB
 
-import ConnectDB.ConnectionDB
+case class Model(val rus: String, val eng: String) {
 
-case class Model() {
-  val con = new ConnectionDB()
+  val connect = new ConnectionDB()
 
-  def addWords(rus:String,eng:String)= {
-
-    con.setWords(rus,eng)
-    println("Saved")
-
+  def addWords(): Unit = {
+    connect.setWords(rus,eng)
   }
 
-  def getWords(): Unit = {
-    con.getWords()
-
-
+  def getAll(): Unit = {
+    connect.getWords()
   }
 }
+

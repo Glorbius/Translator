@@ -1,4 +1,4 @@
-package ConnectDB
+package connectDB
 
 import java.sql.DriverManager
 
