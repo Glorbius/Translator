@@ -1,5 +1,9 @@
-import menu.Text
-import scaner.Scan
+﻿package translator
+
+import translator.menu.Text
+import translator.model.Model
+import translator.scaner.Scan
+
 import scala.io.StdIn
 
 object Main {
@@ -30,4 +34,3 @@ object Main {
   }
 
 }
-

@@ -1,8 +1,8 @@
-package connectDB
+package translator.database
 
 import java.sql.DriverManager
 
-class ConnectionDB() {
+class Database() {
 
 
   def setWords(rus: String, eng: String) = {

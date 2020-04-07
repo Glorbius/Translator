@@ -1,4 +1,4 @@
-package menu
+package translator.menu
 
 class Text() {
 

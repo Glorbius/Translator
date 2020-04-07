@@ -1,4 +1,5 @@
-package scaner
+package translator.scaner
+
 import scala.io.StdIn
 
 class Scan() {

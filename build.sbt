@@ -1,6 +1,6 @@
 
 
-name := "Translator"
+name := "translator"
 
 version := "0.1"
 
